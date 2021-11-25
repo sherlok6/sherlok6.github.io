@@ -79,6 +79,13 @@
 
 @media screen and (max-width: 992px){
     .bt{
-        flex: auto;
+        padding: 50px;
+        font-size: 40px;
+    }
+
+    .show{
+        font-size: 40px;
+        width: 100%;
+        height: 50%;
     }
 }
