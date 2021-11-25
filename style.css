@@ -76,12 +76,8 @@
     border-radius: 25px;
     width: 50px;
 }
-@media screen and (min-width: 720px){
-    .content{
-        flex: 0 0 66.666667%;
-        max-width: 66.666667%;
-        order: 1;
-    }
+
+@media screen and (max-width: 992px){
     .bt{
         flex: 0 0 66.666667%;
         max-width: 66.666667%;
